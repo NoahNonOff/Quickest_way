@@ -1,3 +1,8 @@
 # Quickest_way
- 
-![Zdzisław Beksiński (1)](https://user-images.githubusercontent.com/121849234/230313233-319bd09d-90d9-47c0-9757-9f31a9c9c4bc.jpg)
+</br>
+</br>
+This algorithm show you the quickest way between two points as show below </br>
+Note that the movements are only orthogonal<br/>
+<img width="420" alt="qckst_wy" src="https://user-images.githubusercontent.com/121849234/230313726-1b0f05e1-73c4-4a2a-b7e0-07734b452993.PNG">
+
+
